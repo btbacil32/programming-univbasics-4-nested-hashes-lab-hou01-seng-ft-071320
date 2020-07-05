@@ -15,11 +15,11 @@ def hopper
         :languages => ["C"]
       }
     }
-
+  programmer_hash[:grace_hopper]
 end
 
 def alan_kay_is_known_for
-	# What combination of keys would you use to rethopper[programmer_hash][:alan_kay][:known_for]
+	# What combination of keys would you use to return the hopper[programmer_hash][:alan_kay][:known_for]
 	programmer_hash = 
  		{
       :grace_hopper => {
